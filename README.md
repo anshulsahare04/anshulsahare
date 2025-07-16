@@ -42,4 +42,13 @@ Explore them in my pinned repositories below 👇
 
 ---
 
+## 🎬 Hobbies & Interests
+
+* 🎬 Watching sci-fi movies and tech documentaries
+* 🧭 Exploring new places and traveling occasionally
+* 📚 Exploring new tools in data science & automation
+* 🌟 Learning and discussing interesting concepts in tech & AI
+
+---
+
 > _"Every line of code I write brings me one step closer to building something impactful."_  
