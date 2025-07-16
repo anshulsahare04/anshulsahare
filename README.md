@@ -22,7 +22,7 @@ Explore them in my pinned repositories below 👇
 - **Visualization:** Matplotlib, Seaborn, tableau 
 - **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK
 - **Model Deployment:** Streamlit   
-- **Tools & IDEs:** Jupyter Notbook, VS Code, Google Colab 
+- **Tools & IDEs:** Jupyter Notebook, VS Code, Google Colab 
 
 ---
 
