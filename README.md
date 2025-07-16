@@ -2,8 +2,7 @@
 # 👋 Hi, I'm Anshul Sahare
 
 🎓 Data Science Certified | 💼 Open to Opportunities in Data & Python Roles  
-💡 Transitioned from Govt Exam Prep to Tech | Strong Logical & Analytical Mindset  
-📍 Based in India | 📊 Passionate about turning data into actionable insights
+📊 Passionate about turning data into actionable insights
 
 ---
 
@@ -19,10 +18,11 @@ Explore them in my pinned repositories below 👇
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, HTML, Markdown  
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK  
-- **Databases:** SQLite  
-- **Others:** Git, GitHub, Jupyter, VS Code, Excel  
+- **Languages:** Python, SQL, R
+- **Visualization:** Matplotlib, Seaborn, tableau 
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK
+- **Model Deployment:** Streamlit   
+- **Tools & IDEs:** Jupyter Notbook, VS Code, Google Colab 
 
 ---
 
@@ -31,21 +31,13 @@ Explore them in my pinned repositories below 👇
 ![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsahare&show_icons=true&theme=github_dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsahare&layout=compact&theme=github_dark)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=anshulsahare&theme=github-dark&hide_border=true)
-
----
-
-## 🌱 Currently Learning
-
-- Flask & Streamlit for deploying ML apps  
-- Power BI for data visualization  
-- Model tuning & interpretability  
-
+  
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anshulsahare)  
-- 📧 anshulsahare.ds@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anshulsahare04/)  
+- 📧 anshulsahare1994@gmail.com  
 
 ---
 
